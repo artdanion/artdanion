@@ -2,20 +2,16 @@
 
 ---
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=artdanion&theme=default)
-
 <!-- Gesamtstatistiken -->
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artdanion&theme=dracula)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artdanion&theme=tokyonight)
 
 <!-- Stats Übersicht -->
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=artdanion&theme=dracula)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=artdanion&theme=tokyonight)
 
 <!-- Commit-Zeit -->
-![Commit Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=artdanion&theme=dracula)
+![Commit Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=artdanion&theme=tokyonight)
 
-<!-- Sprachen nach Commit -->
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=artdanion&theme=dracula)
-
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=artdanion&theme=tokyonight)
 ---
 
 <!--
