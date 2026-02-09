@@ -2,7 +2,7 @@
 
 ---
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=artdanion&layout=compact&langs_count=6)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=artdanion&theme=default)
 
 ---
 
