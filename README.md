@@ -2,7 +2,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artdanion&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://your-vercel-app.vercel.app/api?username=artdanion&show_icons=true&count_private=true" /> <img src="https://your-vercel-app.vercel.app/api/top-langs?username=artdanion&layout=compact&theme=algolia&count_private=true"/>
 
 ---
 
