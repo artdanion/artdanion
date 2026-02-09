@@ -2,7 +2,7 @@
 
 ---
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=artdanion&show_icons=true&theme=onedark&bg_color=191924)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=artdanion&layout=compact&langs_count=6&hide_border=true)
 
 ---
 
