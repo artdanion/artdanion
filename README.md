@@ -3,11 +3,11 @@
 </p>
 
 ```
-       ______          daniel@linz
+       ______          artdanion
       /     /|          ------------
      /_____/ |          art    ::  media art — MA Interface Cultures
-     |     | |          eng    ::  electrical engineering (HTL Linz)
-     |     | /          build  ::  network audio devices · AVB/Milan/UA2.0
+     |     | |          eng    ::  electrical engineering
+     |     | /          build  ::  microcontrollers, network audio devices · AVB/Milan/UA2.0
      |_____|/           som    ::  RPi CM5 · Radxa CM5 · ESS codecs
                         mcu    ::  ESP32 · XMOS
        ><>              lang   ::  C · C++ · Python · HTML · Java
@@ -15,6 +15,7 @@
 
 > ls /dev/lol            # serious hardware, deeply unserious ideas
   the-scream-of-music    an LRAD that yodels — The Sound of Music, weaponized
+  watermap               physical weather data on a table
 
 > ask me about
   embedded audio · AVB/Milan · PCB design · ESP32 · acoustic mischief
@@ -22,3 +23,6 @@
 > fun fact
   i'm not the daniel fischer from six feet under
 ```
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=artdanion&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=artdanion&theme=tokyonight)
