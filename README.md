@@ -1,30 +1,24 @@
-### Hi there 👋
+<p align="center">
+  <img src="./channels4_banner.jpg" alt="" width="100%">
+</p>
 
----
+```
+       ______          daniel@linz
+      /     /|          ------------
+     /_____/ |          art    ::  media art — MA Interface Cultures
+     |     | |          eng    ::  electrical engineering (HTL Linz)
+     |     | /          build  ::  network audio devices · AVB/Milan/UA2.0
+     |_____|/           som    ::  RPi CM5 · Radxa CM5 · ESS codecs
+                        mcu    ::  ESP32 · XMOS
+       ><>              lang   ::  C · C++ · Python · HTML · Java
+                        eda    ::  KiCad
 
-<!-- Gesamtstatistiken -->
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artdanion&theme=tokyonight)
+> ls /dev/lol            # serious hardware, deeply unserious ideas
+  the-scream-of-music    an LRAD that yodels — The Sound of Music, weaponized
 
-<!-- Stats Übersicht -->
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=artdanion&theme=tokyonight)
+> ask me about
+  embedded audio · AVB/Milan · PCB design · ESP32 · acoustic mischief
 
-<!-- Commit-Zeit -->
-![Commit Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=artdanion&theme=tokyonight)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=artdanion&theme=tokyonight)
----
-
-<!--
-**artdanion/artdanion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> fun fact
+  i'm not the daniel fischer from six feet under
+```
