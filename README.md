@@ -27,6 +27,6 @@
 ---
 
 <p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=artdanion&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=false" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artdanion&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=artdanion&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=artdanion&theme=tokyonight" />
 </p>
