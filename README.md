@@ -6,8 +6,8 @@
        ______           artdanion
       /     /|          ------------
      /_____/ |          art    ::  media art — MA Interface Cultures
-     |     | |          eng    ::  electrical engineering (HTL Linz)
-     |     | /          build  ::  network audio devices · AVB/Milan/UA2.0
+     |     | |          eng    ::  electrical engineering
+     |     | /          build  ::  microcontroller · network audio devices · AVB/Milan/UA2.0
      |_____|/           som    ::  RPi CM5 · Radxa CM5 · ESS codecs
                         mcu    ::  ESP32 · XMOS
        ><>              lang   ::  C · C++ · Python · HTML · Java
